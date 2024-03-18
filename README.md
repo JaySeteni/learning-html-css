@@ -1,2 +1,2 @@
 # learning-html-css
-learning html/css
+Here I was practicing learning html/css by creating a website where I could implement utilizing css positions and display: flex; ... 
